@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     description: "Article about The Grand Resort",
     images: [
       {
-        url: "/IMG-20250502-150328.jpg",
+        url: "https://shareimgfb.vercel.app/IMG-20250502-150328.jpg",
         width: 1200,
         height: 630,
         alt: "The grand resort",
